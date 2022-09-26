@@ -1,4 +1,10 @@
 ### Hi there 👋
+👋 Hi, I’m @DilaraYılmaz
+🌱 I’m currently learning Java
+🏫 I am a student at Bilkent University
+
+
+
 
 <!--
 **Dilara-Yilmaz/dilara-yilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
