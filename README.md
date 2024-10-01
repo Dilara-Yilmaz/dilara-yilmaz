@@ -1,6 +1,5 @@
 ### Hi there 👋
 👋 Hi, I’m @DilaraYılmaz
-🌱 I’m currently learning Java
 🏫 I am a student at Bilkent University
 
 
